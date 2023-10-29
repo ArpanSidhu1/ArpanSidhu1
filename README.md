@@ -1,6 +1,6 @@
-![image](https://github.com/ArpanSidhu1/ArpanSidhu1/assets/134823912/e196f2cb-a974-4115-be30-28d04a665fd5)<h1 align="center">Hi 👋, I'm Arpan Sidhu</h1>
+<h1 align="center">Hi 👋, I'm Arpan Sidhu</h1>
 <h3 align="center">A dedicated learner who thrives on acquiring new skills and staying abreast of emerging technologies. Eager to apply a dynamic skill set to contribute effectively to innovative projects and solutions in a challenging professional environment.</h3>
-<img align="right" alt="coding" width = "100" src="https://cdn.dribbble.com/users/928287/screenshots/4233953/12-dribbble-2.gif">
+<img align="right" alt="coding" width = "300" src="https://cdn.dribbble.com/users/928287/screenshots/4233953/12-dribbble-2.gif">
 
 
 - 🔭 I’m currently working on [Real Estate House Price Prediction](https://github.com/ArpanSidhu1)
