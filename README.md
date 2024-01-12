@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width = "300" src="https://cdn.dribbble.com/users/928287/screenshots/4233953/12-dribbble-2.gif">
 
 
-- 🔭 I’m currently working on [Real Estate House Price Prediction](https://github.com/ArpanSidhu1)
+- 🔭 I’m currently working on [Barber Shop Monitoring System]
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArpanSidhu1/PROJECTS](https://github.com/ArpanSidhu1/PROJECTS)
 
